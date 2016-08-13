@@ -4058,7 +4058,7 @@
     </attachment>
     <attachment name="territoryAttachment" attachTo="Ikl" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
       <option name="production" value="10"/>
-      <option name="isImpassible" value="true"/>
+      <option name="isImpassable" value="true"/>
       <option name="capital" value="Tithonian"/>
     </attachment>
     <attachment name="territoryAttachment" attachTo="Skm" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
